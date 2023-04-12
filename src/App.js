@@ -8,7 +8,7 @@ export default function App() {
       <p>
         This project is{" "}
         <a
-          href="https://github.com/AmruthaIyyapu/test-react"
+          href="https://github.com/AmruthaIyyapu/weather-react"
           target="_blank"
           rel="noreferrer"
         >
